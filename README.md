@@ -1,0 +1,1 @@
+# kiwiirc_plugin_examples
